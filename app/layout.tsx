@@ -5,7 +5,7 @@ import '@/app/ui/global.css';
 export const metadata: Metadata = {
   title: {
     template: '%s | Kyaw\'s Acme Dashboard',
-    default: 'Acme Dashboard',
+    default: 'Kyaw\'s Acme Dashboard',
   },
   description: 'The official Next.js Course Dashboard, build with App Router.',
   metadataBase: new URL('https://next-learn-dashboard.vercel.sh',)
