@@ -4,7 +4,7 @@ import '@/app/ui/global.css';
 
 export const metadata: Metadata = {
   title: {
-    template: '%s | Kyaw\' Acme Dashboard',
+    template: '%s | Kyaw\'s Acme Dashboard',
     default: 'Acme Dashboard',
   },
   description: 'The official Next.js Course Dashboard, build with App Router.',
